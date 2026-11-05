@@ -1,0 +1,263 @@
+[
+ {
+  "id_contacto": "CT0001",
+  "id_cliente": "C008",
+  "nombre": "Ing. Luis Ortega",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "PUEBLA"
+ },
+ {
+  "id_contacto": "CT0002",
+  "id_cliente": "C002",
+  "nombre": "Karla Hernandez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "PUEBLA"
+ },
+ {
+  "id_contacto": "CT0003",
+  "id_cliente": "C010",
+  "nombre": "Jorge Castañeda",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_contacto": "CT0004",
+  "id_cliente": "C003",
+  "nombre": "CABRERO TRUKING",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": null
+ },
+ {
+  "id_contacto": "CT0005",
+  "id_cliente": "C015",
+  "nombre": "Sandra Ramírez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_contacto": "CT0006",
+  "id_cliente": "C006",
+  "nombre": "Jorge Castañeda",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_contacto": "CT0007",
+  "id_cliente": "C014",
+  "nombre": "Jorge Castañeda",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CELAYA"
+ },
+ {
+  "id_contacto": "CT0008",
+  "id_cliente": "C004",
+  "nombre": "Jorge Castañeda",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": null
+ },
+ {
+  "id_contacto": "CT0009",
+  "id_cliente": "C001",
+  "nombre": "Eduardo Rosas",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": null
+ },
+ {
+  "id_contacto": "CT0010",
+  "id_cliente": "C009",
+  "nombre": "Sandra Ramírez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "AGUASCALIENTES"
+ },
+ {
+  "id_contacto": "CT0011",
+  "id_cliente": "C007",
+  "nombre": "Ing. Ricardo Salinas",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_contacto": "CT0012",
+  "id_cliente": "C009",
+  "nombre": "Ing. Ricardo Salinas",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "AGUASCALIENTES"
+ },
+ {
+  "id_contacto": "CT0013",
+  "id_cliente": "C002",
+  "nombre": "Ing. Juan Ramon",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "PUEBLA"
+ },
+ {
+  "id_contacto": "CT0014",
+  "id_cliente": "C012",
+  "nombre": "Sandra Ramírez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CIUDAD DE MÉXICO"
+ },
+ {
+  "id_contacto": "CT0015",
+  "id_cliente": "C005",
+  "nombre": "Ing. Arturo Méndez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_contacto": "CT0016",
+  "id_cliente": "C013",
+  "nombre": "Ing. Arturo Méndez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_contacto": "CT0017",
+  "id_cliente": "C002",
+  "nombre": "Ing. Francisco Gomez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "MORELIA"
+ },
+ {
+  "id_contacto": "CT0018",
+  "id_cliente": "C011",
+  "nombre": "Jorge Castañeda",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_contacto": "CT0019",
+  "id_cliente": "C013",
+  "nombre": "Roberto Aguilar",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": null
+ },
+ {
+  "id_contacto": "CT0020",
+  "id_cliente": "C015",
+  "nombre": "Ing. Luis Ortega",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_contacto": "CT0021",
+  "id_cliente": "C004",
+  "nombre": "Miguel Ángel Pérez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_contacto": "CT0022",
+  "id_cliente": "C014",
+  "nombre": "Ing. Daniela Cruz",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_contacto": "CT0023",
+  "id_cliente": "C005",
+  "nombre": "Jorge Castañeda",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_contacto": "CT0024",
+  "id_cliente": "C010",
+  "nombre": "Miguel Ángel Pérez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CIUDAD JUÁREZ"
+ },
+ {
+  "id_contacto": "CT0025",
+  "id_cliente": "C006",
+  "nombre": "Ing. Arturo Méndez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "MONTERREY"
+ },
+ {
+  "id_contacto": "CT0026",
+  "id_cliente": "C008",
+  "nombre": "Miguel Ángel Pérez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_contacto": "CT0027",
+  "id_cliente": "C012",
+  "nombre": "Roberto Aguilar",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_contacto": "CT0028",
+  "id_cliente": "C007",
+  "nombre": "Sandra Ramírez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "LEÓN"
+ },
+ {
+  "id_contacto": "CT0029",
+  "id_cliente": "C011",
+  "nombre": "Miguel Ángel Pérez",
+  "puesto": "Compras / Taller",
+  "telefono": null,
+  "correo": null,
+  "base": "MONTERREY"
+ }
+]

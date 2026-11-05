@@ -1,0 +1,3350 @@
+[
+ {
+  "id_actividad": "A00001",
+  "fecha": "2026-06-19",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0001",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00002",
+  "fecha": "2026-09-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0002",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00003",
+  "fecha": "2026-07-15",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0003",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00004",
+  "fecha": "2026-07-03",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0004",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00005",
+  "fecha": "2026-04-06",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0005",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00006",
+  "fecha": "2025-01-23",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0006",
+  "id_cliente": "C008",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00007",
+  "fecha": "2025-01-23",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0006",
+  "id_cliente": "C008",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00008",
+  "fecha": "2025-01-27",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0007",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00009",
+  "fecha": "2025-01-27",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0007",
+  "id_cliente": "C002",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00010",
+  "fecha": "2025-02-03",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0008",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00011",
+  "fecha": "2025-02-05",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0009",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00012",
+  "fecha": "2025-02-05",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0009",
+  "id_cliente": "C003",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00013",
+  "fecha": "2025-02-10",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0010",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00014",
+  "fecha": "2025-02-10",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0010",
+  "id_cliente": "C015",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00015",
+  "fecha": "2025-02-10",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0011",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00016",
+  "fecha": "2025-02-10",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0012",
+  "id_cliente": "C006",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00017",
+  "fecha": "2025-02-10",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0012",
+  "id_cliente": "C006",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00018",
+  "fecha": "2025-02-13",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0013",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00019",
+  "fecha": "2025-02-13",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0013",
+  "id_cliente": "C014",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00020",
+  "fecha": "2025-02-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0014",
+  "id_cliente": "C008",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00021",
+  "fecha": "2025-02-14",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0014",
+  "id_cliente": "C008",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00022",
+  "fecha": "2025-02-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0015",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00023",
+  "fecha": "2025-02-17",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0015",
+  "id_cliente": "C014",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00024",
+  "fecha": "2025-02-18",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0016",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00025",
+  "fecha": "2025-02-18",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0016",
+  "id_cliente": "C004",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00026",
+  "fecha": "2025-02-18",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0017",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00027",
+  "fecha": "2025-02-18",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0018",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00028",
+  "fecha": "2025-02-18",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0018",
+  "id_cliente": "C009",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00029",
+  "fecha": "2025-02-27",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0019",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00030",
+  "fecha": "2025-02-27",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0019",
+  "id_cliente": "C009",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00031",
+  "fecha": "2025-02-27",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0020",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00032",
+  "fecha": "2025-02-27",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0020",
+  "id_cliente": "C007",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00033",
+  "fecha": "2025-02-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0021",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00034",
+  "fecha": "2025-02-28",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0021",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00035",
+  "fecha": "2025-03-05",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0022",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00036",
+  "fecha": "2025-03-05",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0022",
+  "id_cliente": "C009",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00037",
+  "fecha": "2025-03-07",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0023",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00038",
+  "fecha": "2025-03-07",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0023",
+  "id_cliente": "C002",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00039",
+  "fecha": "2025-03-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0024",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00040",
+  "fecha": "2025-03-12",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0024",
+  "id_cliente": "C012",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00041",
+  "fecha": "2025-03-13",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0025",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00042",
+  "fecha": "2025-03-13",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0025",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00043",
+  "fecha": "2025-03-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0026",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00044",
+  "fecha": "2025-03-17",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0026",
+  "id_cliente": "C005",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00045",
+  "fecha": "2025-03-18",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0027",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00046",
+  "fecha": "2025-03-21",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0028",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00047",
+  "fecha": "2025-03-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0029",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00048",
+  "fecha": "2025-03-31",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0030",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00049",
+  "fecha": "2025-04-03",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0031",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00050",
+  "fecha": "2025-04-03",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0031",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00051",
+  "fecha": "2025-04-04",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0032",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00052",
+  "fecha": "2025-04-04",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0032",
+  "id_cliente": "C005",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00053",
+  "fecha": "2025-04-04",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0033",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00054",
+  "fecha": "2025-04-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0034",
+  "id_cliente": "C011",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00055",
+  "fecha": "2025-04-14",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0034",
+  "id_cliente": "C011",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00056",
+  "fecha": "2025-04-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0035",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00057",
+  "fecha": "2025-04-23",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0036",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00058",
+  "fecha": "2025-04-23",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0036",
+  "id_cliente": "C010",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00059",
+  "fecha": "2025-04-23",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0037",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00060",
+  "fecha": "2025-04-23",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0037",
+  "id_cliente": "C016",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00061",
+  "fecha": "2025-04-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0038",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00062",
+  "fecha": "2025-04-28",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0038",
+  "id_cliente": "C007",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00063",
+  "fecha": "2025-04-30",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0039",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00064",
+  "fecha": "2025-05-05",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0040",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00065",
+  "fecha": "2025-05-05",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0040",
+  "id_cliente": "C013",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00066",
+  "fecha": "2025-05-05",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0041",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00067",
+  "fecha": "2025-05-05",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0041",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00068",
+  "fecha": "2025-05-05",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0042",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00069",
+  "fecha": "2025-05-06",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0043",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00070",
+  "fecha": "2025-05-06",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0043",
+  "id_cliente": "C001",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00071",
+  "fecha": "2025-05-20",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0044",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00072",
+  "fecha": "2025-05-20",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0044",
+  "id_cliente": "C013",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00073",
+  "fecha": "2025-05-20",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0045",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00074",
+  "fecha": "2025-05-20",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0045",
+  "id_cliente": "C010",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00075",
+  "fecha": "2025-05-20",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0046",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00076",
+  "fecha": "2025-05-20",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0046",
+  "id_cliente": "C015",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00077",
+  "fecha": "2025-05-30",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0047",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00078",
+  "fecha": "2025-05-30",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0047",
+  "id_cliente": "C004",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00079",
+  "fecha": "2025-06-02",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0048",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00080",
+  "fecha": "2025-06-02",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0048",
+  "id_cliente": "C009",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00081",
+  "fecha": "2025-06-02",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0049",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00082",
+  "fecha": "2025-06-02",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0049",
+  "id_cliente": "C005",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00083",
+  "fecha": "2025-06-02",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0050",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00084",
+  "fecha": "2025-06-03",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0051",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00085",
+  "fecha": "2025-06-03",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0052",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00086",
+  "fecha": "2025-06-03",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0052",
+  "id_cliente": "C013",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00087",
+  "fecha": "2025-06-10",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0053",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00088",
+  "fecha": "2025-06-10",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0053",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00089",
+  "fecha": "2025-06-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0054",
+  "id_cliente": "C011",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00090",
+  "fecha": "2025-06-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0055",
+  "id_cliente": "C011",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00091",
+  "fecha": "2025-06-11",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0055",
+  "id_cliente": "C011",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00092",
+  "fecha": "2025-06-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0056",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00093",
+  "fecha": "2025-06-12",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0056",
+  "id_cliente": "C005",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00094",
+  "fecha": "2025-06-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0057",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00095",
+  "fecha": "2025-06-12",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0057",
+  "id_cliente": "C010",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00096",
+  "fecha": "2025-06-13",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0058",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00097",
+  "fecha": "2025-06-13",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0058",
+  "id_cliente": "C001",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00098",
+  "fecha": "2025-06-20",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0059",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00099",
+  "fecha": "2025-06-24",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0060",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00100",
+  "fecha": "2025-06-24",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0060",
+  "id_cliente": "C013",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00101",
+  "fecha": "2025-06-25",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0061",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00102",
+  "fecha": "2025-06-25",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0061",
+  "id_cliente": "C004",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00103",
+  "fecha": "2025-06-26",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0062",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00104",
+  "fecha": "2025-06-30",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0063",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00105",
+  "fecha": "2025-06-30",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0063",
+  "id_cliente": "C005",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00106",
+  "fecha": "2025-06-30",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0064",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00107",
+  "fecha": "2025-07-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0065",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00108",
+  "fecha": "2025-07-14",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0065",
+  "id_cliente": "C012",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00109",
+  "fecha": "2025-07-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0066",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00110",
+  "fecha": "2025-07-17",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0066",
+  "id_cliente": "C010",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00111",
+  "fecha": "2025-07-18",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0067",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00112",
+  "fecha": "2025-07-18",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0067",
+  "id_cliente": "C007",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00113",
+  "fecha": "2025-07-23",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0068",
+  "id_cliente": "C006",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00114",
+  "fecha": "2025-08-13",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0069",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00115",
+  "fecha": "2025-08-13",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0069",
+  "id_cliente": "C004",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00116",
+  "fecha": "2025-08-20",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0070",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00117",
+  "fecha": "2025-08-22",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0071",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00118",
+  "fecha": "2025-08-22",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0071",
+  "id_cliente": "C013",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00119",
+  "fecha": "2025-08-27",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0072",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00120",
+  "fecha": "2025-08-27",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0072",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00121",
+  "fecha": "2025-09-02",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0073",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00122",
+  "fecha": "2025-09-04",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0074",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00123",
+  "fecha": "2025-09-04",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0074",
+  "id_cliente": "C001",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00124",
+  "fecha": "2025-09-09",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0075",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00125",
+  "fecha": "2025-09-09",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0075",
+  "id_cliente": "C012",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00126",
+  "fecha": "2025-09-10",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0076",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00127",
+  "fecha": "2025-09-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0077",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00128",
+  "fecha": "2025-09-11",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0077",
+  "id_cliente": "C002",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00129",
+  "fecha": "2025-09-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0078",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00130",
+  "fecha": "2025-09-11",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0078",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00131",
+  "fecha": "2025-09-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0079",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00132",
+  "fecha": "2025-09-16",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0080",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00133",
+  "fecha": "2025-09-16",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0080",
+  "id_cliente": "C013",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00134",
+  "fecha": "2025-09-18",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0081",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00135",
+  "fecha": "2025-09-18",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0081",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00136",
+  "fecha": "2025-09-19",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0082",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00137",
+  "fecha": "2025-09-29",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0083",
+  "id_cliente": "C008",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00138",
+  "fecha": "2025-09-29",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0083",
+  "id_cliente": "C008",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00139",
+  "fecha": "2025-09-30",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0084",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00140",
+  "fecha": "2025-09-30",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0084",
+  "id_cliente": "C014",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00141",
+  "fecha": "2025-10-01",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0085",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00142",
+  "fecha": "2025-10-07",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0086",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00143",
+  "fecha": "2025-10-08",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0087",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00144",
+  "fecha": "2025-10-13",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0088",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00145",
+  "fecha": "2025-10-15",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0089",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00146",
+  "fecha": "2025-10-15",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0089",
+  "id_cliente": "C001",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00147",
+  "fecha": "2025-10-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0090",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00148",
+  "fecha": "2025-10-17",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0090",
+  "id_cliente": "C013",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00149",
+  "fecha": "2025-10-22",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0091",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00150",
+  "fecha": "2025-10-22",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0091",
+  "id_cliente": "C016",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00151",
+  "fecha": "2025-10-24",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0092",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00152",
+  "fecha": "2025-10-24",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0092",
+  "id_cliente": "C004",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00153",
+  "fecha": "2025-10-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0093",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00154",
+  "fecha": "2025-10-28",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0093",
+  "id_cliente": "C016",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00155",
+  "fecha": "2025-10-29",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0094",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00156",
+  "fecha": "2025-10-29",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0094",
+  "id_cliente": "C001",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00157",
+  "fecha": "2025-10-30",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0095",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00158",
+  "fecha": "2025-10-30",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0095",
+  "id_cliente": "C001",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00159",
+  "fecha": "2025-11-06",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0096",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00160",
+  "fecha": "2025-11-06",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0096",
+  "id_cliente": "C012",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00161",
+  "fecha": "2025-11-06",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0097",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00162",
+  "fecha": "2025-11-06",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0097",
+  "id_cliente": "C002",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00163",
+  "fecha": "2025-11-10",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0098",
+  "id_cliente": "C006",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00164",
+  "fecha": "2025-11-10",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0098",
+  "id_cliente": "C006",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00165",
+  "fecha": "2025-11-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0099",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00166",
+  "fecha": "2025-11-11",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0099",
+  "id_cliente": "C012",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00167",
+  "fecha": "2025-11-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0100",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00168",
+  "fecha": "2025-11-11",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0100",
+  "id_cliente": "C004",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00169",
+  "fecha": "2025-11-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0101",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00170",
+  "fecha": "2025-11-12",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0101",
+  "id_cliente": "C013",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00171",
+  "fecha": "2025-11-19",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0102",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00172",
+  "fecha": "2025-11-19",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0102",
+  "id_cliente": "C014",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00173",
+  "fecha": "2025-12-03",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0103",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00174",
+  "fecha": "2025-12-03",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0103",
+  "id_cliente": "C010",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00175",
+  "fecha": "2025-12-04",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0104",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00176",
+  "fecha": "2025-12-04",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0104",
+  "id_cliente": "C003",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00177",
+  "fecha": "2025-12-05",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0105",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00178",
+  "fecha": "2025-12-05",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0105",
+  "id_cliente": "C002",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00179",
+  "fecha": "2025-12-10",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0106",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00180",
+  "fecha": "2025-12-10",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0106",
+  "id_cliente": "C003",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00181",
+  "fecha": "2025-12-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0107",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00182",
+  "fecha": "2025-12-11",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0107",
+  "id_cliente": "C001",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00183",
+  "fecha": "2025-12-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0108",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00184",
+  "fecha": "2025-12-18",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0109",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00185",
+  "fecha": "2025-12-18",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0109",
+  "id_cliente": "C014",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00186",
+  "fecha": "2025-12-19",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0110",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00187",
+  "fecha": "2025-12-19",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0110",
+  "id_cliente": "C005",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00188",
+  "fecha": "2025-12-26",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0111",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00189",
+  "fecha": "2025-12-26",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0111",
+  "id_cliente": "C007",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00190",
+  "fecha": "2025-12-29",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0112",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00191",
+  "fecha": "2025-12-29",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0112",
+  "id_cliente": "C013",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00192",
+  "fecha": "2025-12-31",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0113",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00193",
+  "fecha": "2025-12-31",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0113",
+  "id_cliente": "C014",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00194",
+  "fecha": "2026-01-01",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0114",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00195",
+  "fecha": "2026-01-01",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0114",
+  "id_cliente": "C009",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00196",
+  "fecha": "2026-01-02",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0115",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00197",
+  "fecha": "2026-01-06",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0116",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00198",
+  "fecha": "2026-01-06",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0116",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00199",
+  "fecha": "2026-01-08",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0117",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00200",
+  "fecha": "2026-01-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0118",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00201",
+  "fecha": "2026-01-12",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0118",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00202",
+  "fecha": "2026-01-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0119",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00203",
+  "fecha": "2026-01-12",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0119",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00204",
+  "fecha": "2026-01-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0120",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00205",
+  "fecha": "2026-01-15",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0121",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00206",
+  "fecha": "2026-01-16",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0122",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00207",
+  "fecha": "2026-01-16",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0122",
+  "id_cliente": "C016",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00208",
+  "fecha": "2026-01-22",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0123",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00209",
+  "fecha": "2026-01-22",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0123",
+  "id_cliente": "C009",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00210",
+  "fecha": "2026-01-26",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0124",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00211",
+  "fecha": "2026-01-26",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0124",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00212",
+  "fecha": "2026-01-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0125",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00213",
+  "fecha": "2026-01-28",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0125",
+  "id_cliente": "C002",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00214",
+  "fecha": "2026-02-02",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0126",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00215",
+  "fecha": "2026-02-02",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0126",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00216",
+  "fecha": "2026-02-03",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0127",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00217",
+  "fecha": "2026-02-03",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0127",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00218",
+  "fecha": "2026-02-05",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0128",
+  "id_cliente": "C008",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00219",
+  "fecha": "2026-02-05",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0128",
+  "id_cliente": "C008",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00220",
+  "fecha": "2026-02-05",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0129",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00221",
+  "fecha": "2026-02-05",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0129",
+  "id_cliente": "C015",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00222",
+  "fecha": "2026-02-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0130",
+  "id_cliente": "C006",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00223",
+  "fecha": "2026-02-11",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0130",
+  "id_cliente": "C006",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00224",
+  "fecha": "2026-02-13",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0131",
+  "id_cliente": "C008",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00225",
+  "fecha": "2026-02-13",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0131",
+  "id_cliente": "C008",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00226",
+  "fecha": "2026-02-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0132",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00227",
+  "fecha": "2026-02-17",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0132",
+  "id_cliente": "C014",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00228",
+  "fecha": "2026-02-19",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0133",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00229",
+  "fecha": "2026-02-19",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0133",
+  "id_cliente": "C012",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00230",
+  "fecha": "2026-02-26",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0134",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00231",
+  "fecha": "2026-02-26",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0134",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00232",
+  "fecha": "2026-02-27",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0135",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00233",
+  "fecha": "2026-02-27",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0135",
+  "id_cliente": "C001",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00234",
+  "fecha": "2026-02-27",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0136",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00235",
+  "fecha": "2026-02-27",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0136",
+  "id_cliente": "C016",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00236",
+  "fecha": "2026-03-03",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0137",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00237",
+  "fecha": "2026-03-03",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0137",
+  "id_cliente": "C009",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00238",
+  "fecha": "2026-03-09",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0138",
+  "id_cliente": "C006",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00239",
+  "fecha": "2026-03-09",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0139",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00240",
+  "fecha": "2026-03-09",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0139",
+  "id_cliente": "C012",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00241",
+  "fecha": "2026-03-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0140",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00242",
+  "fecha": "2026-03-11",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0140",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00243",
+  "fecha": "2026-03-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0141",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00244",
+  "fecha": "2026-03-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0142",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00245",
+  "fecha": "2026-03-20",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0143",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00246",
+  "fecha": "2026-03-20",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0143",
+  "id_cliente": "C007",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00247",
+  "fecha": "2026-03-20",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0144",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00248",
+  "fecha": "2026-03-20",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0144",
+  "id_cliente": "C016",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00249",
+  "fecha": "2026-03-24",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0145",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00250",
+  "fecha": "2026-03-24",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0145",
+  "id_cliente": "C015",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00251",
+  "fecha": "2026-03-31",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0146",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00252",
+  "fecha": "2026-03-31",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0146",
+  "id_cliente": "C010",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00253",
+  "fecha": "2026-04-06",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0147",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00254",
+  "fecha": "2026-04-07",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0148",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00255",
+  "fecha": "2026-04-07",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0148",
+  "id_cliente": "C007",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00256",
+  "fecha": "2026-04-08",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0149",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00257",
+  "fecha": "2026-04-08",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0149",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00258",
+  "fecha": "2026-04-09",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0150",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00259",
+  "fecha": "2026-04-09",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0150",
+  "id_cliente": "C016",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00260",
+  "fecha": "2026-04-09",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0151",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00261",
+  "fecha": "2026-04-09",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0151",
+  "id_cliente": "C014",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00262",
+  "fecha": "2026-04-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0152",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00263",
+  "fecha": "2026-04-14",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0152",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00264",
+  "fecha": "2026-04-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0153",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00265",
+  "fecha": "2026-04-15",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0154",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00266",
+  "fecha": "2026-04-15",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0154",
+  "id_cliente": "C012",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00267",
+  "fecha": "2026-04-16",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0155",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00268",
+  "fecha": "2026-04-16",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0155",
+  "id_cliente": "C003",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00269",
+  "fecha": "2026-04-24",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0156",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00270",
+  "fecha": "2026-04-27",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0157",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00271",
+  "fecha": "2026-04-27",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0157",
+  "id_cliente": "C003",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00272",
+  "fecha": "2026-04-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0158",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00273",
+  "fecha": "2026-04-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0159",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00274",
+  "fecha": "2026-04-28",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0159",
+  "id_cliente": "C003",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00275",
+  "fecha": "2026-05-01",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0160",
+  "id_cliente": "C008",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00276",
+  "fecha": "2026-05-01",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0161",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00277",
+  "fecha": "2026-05-06",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0162",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00278",
+  "fecha": "2026-05-06",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0162",
+  "id_cliente": "C001",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00279",
+  "fecha": "2026-05-11",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0163",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00280",
+  "fecha": "2026-05-11",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0163",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00281",
+  "fecha": "2026-05-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0164",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00282",
+  "fecha": "2026-05-12",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0164",
+  "id_cliente": "C005",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00283",
+  "fecha": "2026-05-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0165",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00284",
+  "fecha": "2026-05-14",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0165",
+  "id_cliente": "C007",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00285",
+  "fecha": "2026-05-15",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0166",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00286",
+  "fecha": "2026-05-15",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0166",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00287",
+  "fecha": "2026-05-15",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0167",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00288",
+  "fecha": "2026-05-15",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0167",
+  "id_cliente": "C004",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00289",
+  "fecha": "2026-05-18",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0168",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00290",
+  "fecha": "2026-05-18",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0169",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00291",
+  "fecha": "2026-05-21",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0170",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00292",
+  "fecha": "2026-05-21",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0170",
+  "id_cliente": "C002",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00293",
+  "fecha": "2026-05-21",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0171",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00294",
+  "fecha": "2026-05-21",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0171",
+  "id_cliente": "C013",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00295",
+  "fecha": "2026-05-21",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0172",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00296",
+  "fecha": "2026-05-21",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0172",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00297",
+  "fecha": "2026-05-26",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0173",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00298",
+  "fecha": "2026-05-26",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0173",
+  "id_cliente": "C007",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00299",
+  "fecha": "2026-06-01",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0174",
+  "id_cliente": "C011",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00300",
+  "fecha": "2026-06-01",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0174",
+  "id_cliente": "C011",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00301",
+  "fecha": "2026-06-04",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0175",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00302",
+  "fecha": "2026-06-04",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0175",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00303",
+  "fecha": "2026-06-08",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0176",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00304",
+  "fecha": "2026-06-08",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0176",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00305",
+  "fecha": "2026-06-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0177",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00306",
+  "fecha": "2026-06-12",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0177",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00307",
+  "fecha": "2026-06-22",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0178",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00308",
+  "fecha": "2026-06-23",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0179",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00309",
+  "fecha": "2026-06-23",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0179",
+  "id_cliente": "C012",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00310",
+  "fecha": "2026-06-24",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0180",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00311",
+  "fecha": "2026-06-24",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0180",
+  "id_cliente": "C004",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00312",
+  "fecha": "2026-06-24",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0181",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00313",
+  "fecha": "2026-06-25",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0182",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00314",
+  "fecha": "2026-06-25",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0182",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00315",
+  "fecha": "2026-06-26",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0183",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00316",
+  "fecha": "2026-06-26",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0183",
+  "id_cliente": "C001",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00317",
+  "fecha": "2026-06-29",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0184",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00318",
+  "fecha": "2026-06-29",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0184",
+  "id_cliente": "C015",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00319",
+  "fecha": "2026-06-29",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0185",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00320",
+  "fecha": "2026-06-29",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0185",
+  "id_cliente": "C001",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00321",
+  "fecha": "2026-07-09",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0186",
+  "id_cliente": "C008",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00322",
+  "fecha": "2026-07-09",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0186",
+  "id_cliente": "C008",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00323",
+  "fecha": "2026-07-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0187",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00324",
+  "fecha": "2026-07-14",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0187",
+  "id_cliente": "C013",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00325",
+  "fecha": "2026-07-15",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0188",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00326",
+  "fecha": "2026-07-15",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0188",
+  "id_cliente": "C002",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00327",
+  "fecha": "2026-07-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0189",
+  "id_cliente": "C011",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00328",
+  "fecha": "2026-07-17",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0189",
+  "id_cliente": "C011",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00329",
+  "fecha": "2026-07-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0190",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00330",
+  "fecha": "2026-07-17",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0190",
+  "id_cliente": "C014",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00331",
+  "fecha": "2026-07-20",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0191",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00332",
+  "fecha": "2026-07-27",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0192",
+  "id_cliente": "C006",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00333",
+  "fecha": "2026-07-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0193",
+  "id_cliente": "C007",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00334",
+  "fecha": "2026-07-28",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0193",
+  "id_cliente": "C007",
+  "texto": "Cotización perdida: Precio",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00335",
+  "fecha": "2026-07-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0194",
+  "id_cliente": "C001",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00336",
+  "fecha": "2026-07-28",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0195",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00337",
+  "fecha": "2026-07-29",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0196",
+  "id_cliente": "C011",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00338",
+  "fecha": "2026-07-29",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0196",
+  "id_cliente": "C011",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00339",
+  "fecha": "2026-07-29",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0197",
+  "id_cliente": "C011",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00340",
+  "fecha": "2026-07-29",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0197",
+  "id_cliente": "C011",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00341",
+  "fecha": "2026-07-30",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0198",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00342",
+  "fecha": "2026-07-30",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0198",
+  "id_cliente": "C012",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00343",
+  "fecha": "2026-07-30",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0199",
+  "id_cliente": "C011",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00344",
+  "fecha": "2026-07-31",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0200",
+  "id_cliente": "C008",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00345",
+  "fecha": "2026-08-10",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0201",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00346",
+  "fecha": "2026-08-10",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0201",
+  "id_cliente": "C012",
+  "texto": "Cotización perdida: Tiempo de entrega",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00347",
+  "fecha": "2026-08-19",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0202",
+  "id_cliente": "C009",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00348",
+  "fecha": "2026-08-19",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0202",
+  "id_cliente": "C009",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00349",
+  "fecha": "2026-08-31",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0203",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00350",
+  "fecha": "2026-09-01",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0204",
+  "id_cliente": "C011",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00351",
+  "fecha": "2026-09-04",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0205",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00352",
+  "fecha": "2026-09-04",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0205",
+  "id_cliente": "C012",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00353",
+  "fecha": "2026-09-10",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0206",
+  "id_cliente": "C015",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00354",
+  "fecha": "2026-09-16",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0207",
+  "id_cliente": "C002",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00355",
+  "fecha": "2026-09-17",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0208",
+  "id_cliente": "C013",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00356",
+  "fecha": "2026-09-17",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0208",
+  "id_cliente": "C013",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00357",
+  "fecha": "2026-09-22",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0209",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00358",
+  "fecha": "2026-09-22",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0209",
+  "id_cliente": "C016",
+  "texto": "Cotización perdida: Cliente canceló reparación",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00359",
+  "fecha": "2026-09-22",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0210",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00360",
+  "fecha": "2026-09-22",
+  "tipo": "perdida",
+  "id_cotizacion": "COT0210",
+  "id_cliente": "C004",
+  "texto": "Cotización perdida: Cliente compró con otro proveedor",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00361",
+  "fecha": "2026-09-24",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0211",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00362",
+  "fecha": "2026-09-24",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0211",
+  "id_cliente": "C016",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00363",
+  "fecha": "2026-09-25",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0212",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00364",
+  "fecha": "2026-09-29",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0213",
+  "id_cliente": "C012",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00365",
+  "fecha": "2026-10-02",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0214",
+  "id_cliente": "C004",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00366",
+  "fecha": "2026-10-02",
+  "tipo": "ganada",
+  "id_cotizacion": "COT0214",
+  "id_cliente": "C004",
+  "texto": "Cotización ganada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00367",
+  "fecha": "2026-10-07",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0215",
+  "id_cliente": "C010",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00368",
+  "fecha": "2026-10-09",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0216",
+  "id_cliente": "C016",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00369",
+  "fecha": "2026-10-09",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0217",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00370",
+  "fecha": "2026-10-12",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0218",
+  "id_cliente": "C005",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00371",
+  "fecha": "2026-10-14",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0219",
+  "id_cliente": "C014",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ },
+ {
+  "id_actividad": "A00372",
+  "fecha": "2026-10-15",
+  "tipo": "cotizacion",
+  "id_cotizacion": "COT0220",
+  "id_cliente": "C003",
+  "texto": "Cotización enviada",
+  "usuario": "Dulce Belen Arias"
+ }
+]

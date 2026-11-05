@@ -1,0 +1,14 @@
+[
+ {
+  "id_usuario": "US01",
+  "nombre": "Dulce Belen Arias",
+  "rol": "Ventas",
+  "puesto": "Ejecutiva de ventas"
+ },
+ {
+  "id_usuario": "US02",
+  "nombre": "Jose Luis Barrera B",
+  "rol": "Dirección",
+  "puesto": "Gerencia de Comercialización y Servicio"
+ }
+]

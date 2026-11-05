@@ -1,0 +1,1122 @@
+[
+ {
+  "id_unidad": "U0001",
+  "id_cliente": "C008",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R25823",
+  "no_serie": null,
+  "placas": null,
+  "base": "PUEBLA"
+ },
+ {
+  "id_unidad": "U0002",
+  "id_cliente": "C010",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T7646",
+  "no_serie": "3AKH8JV74NS762581",
+  "placas": "92MD939",
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0003",
+  "id_cliente": "C002",
+  "tipo": "REMOLQUE",
+  "marca": "UTILITY",
+  "no_economico": "R13447",
+  "no_serie": null,
+  "placas": null,
+  "base": "PUEBLA"
+ },
+ {
+  "id_unidad": "U0004",
+  "id_cliente": "C014",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T2718",
+  "no_serie": "3AK32ZJ28KK246191",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0005",
+  "id_cliente": "C004",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R10370",
+  "no_serie": null,
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0006",
+  "id_cliente": "C001",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R20212",
+  "no_serie": null,
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0007",
+  "id_cliente": "C009",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T3919",
+  "no_serie": "3AKG09TA2PA173733",
+  "placas": null,
+  "base": "AGUASCALIENTES"
+ },
+ {
+  "id_unidad": "U0008",
+  "id_cliente": "C007",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T3044",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0009",
+  "id_cliente": "C009",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D04598",
+  "no_serie": null,
+  "placas": null,
+  "base": "AGUASCALIENTES"
+ },
+ {
+  "id_unidad": "U0010",
+  "id_cliente": "C005",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D08634",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0011",
+  "id_cliente": "C013",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R07887",
+  "no_serie": "3A1DTD0F1CA090385",
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0012",
+  "id_cliente": "C005",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D13524",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0013",
+  "id_cliente": "C009",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D10582",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0014",
+  "id_cliente": "C010",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D13978",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0015",
+  "id_cliente": "C013",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T4882",
+  "no_serie": "3AKGESS27JU071563",
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0016",
+  "id_cliente": "C002",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T0406",
+  "no_serie": null,
+  "placas": null,
+  "base": "QUERETARO"
+ },
+ {
+  "id_unidad": "U0017",
+  "id_cliente": "C013",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R25003",
+  "no_serie": "3A1L1BCX2LJ845313",
+  "placas": "07GA504",
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0018",
+  "id_cliente": "C010",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T8401",
+  "no_serie": null,
+  "placas": null,
+  "base": "CIUDAD JUÁREZ"
+ },
+ {
+  "id_unidad": "U0019",
+  "id_cliente": "C015",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T1351",
+  "no_serie": "3AKC7AS30MR388202",
+  "placas": "83DV526",
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0020",
+  "id_cliente": "C005",
+  "tipo": "REMOLQUE",
+  "marca": "OPERBUS",
+  "no_economico": "R20021",
+  "no_serie": null,
+  "placas": null,
+  "base": "CIUDAD DE MÉXICO"
+ },
+ {
+  "id_unidad": "U0021",
+  "id_cliente": "C009",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D23039",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0022",
+  "id_cliente": "C013",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T0147",
+  "no_serie": "3AKC48CJ5MY282221",
+  "placas": "63WX217",
+  "base": null
+ },
+ {
+  "id_unidad": "U0023",
+  "id_cliente": "C011",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R15627",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0024",
+  "id_cliente": "C011",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R02270",
+  "no_serie": "3A1N83HH5CP438899",
+  "placas": "86YD538",
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0025",
+  "id_cliente": "C005",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T6439",
+  "no_serie": "3AK1C7TZ3KM903504",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0026",
+  "id_cliente": "C001",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T2030",
+  "no_serie": "3AKG7ARD8MR732486",
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0027",
+  "id_cliente": "C015",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T3152",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0028",
+  "id_cliente": "C013",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D05991",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0029",
+  "id_cliente": "C004",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R09770",
+  "no_serie": "1JJ7FA732CZ145440",
+  "placas": "13CP354",
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0030",
+  "id_cliente": "C005",
+  "tipo": "REMOLQUE",
+  "marca": "GREAT DANE",
+  "no_economico": "R08015",
+  "no_serie": "1GRW8S833PF517495",
+  "placas": "15CG521",
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0031",
+  "id_cliente": "C013",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R14186",
+  "no_serie": "1JJ1UCCC8MX867876",
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0032",
+  "id_cliente": "C012",
+  "tipo": "REMOLQUE",
+  "marca": "UTILITY",
+  "no_economico": "R18973",
+  "no_serie": "1UYHH68X4HY172921",
+  "placas": "76RA345",
+  "base": "CIUDAD DE MÉXICO"
+ },
+ {
+  "id_unidad": "U0033",
+  "id_cliente": "C010",
+  "tipo": "REMOLQUE",
+  "marca": "FONTAINE",
+  "no_economico": "R07128",
+  "no_serie": "13NFX6GH9JP637090",
+  "placas": "30YS787",
+  "base": "CIUDAD JUÁREZ"
+ },
+ {
+  "id_unidad": "U0034",
+  "id_cliente": "C007",
+  "tipo": "REMOLQUE",
+  "marca": "OPERBUS",
+  "no_economico": "R17609",
+  "no_serie": "3PBCCW1F1NB166784",
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0035",
+  "id_cliente": "C013",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R01249",
+  "no_serie": "3A1665NW3FV029812",
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0036",
+  "id_cliente": "C002",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R22280",
+  "no_serie": "1JJMGH2U8NP382747",
+  "placas": "57TY860",
+  "base": "PUEBLA"
+ },
+ {
+  "id_unidad": "U0037",
+  "id_cliente": "C009",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R29552",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0038",
+  "id_cliente": "C008",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T0169",
+  "no_serie": "3AKG3W6FXJB649483",
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0039",
+  "id_cliente": "C014",
+  "tipo": "REMOLQUE",
+  "marca": "UTILITY",
+  "no_economico": "R20831",
+  "no_serie": "1UYYWP528PJ055659",
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0040",
+  "id_cliente": "C010",
+  "tipo": "REMOLQUE",
+  "marca": "STOUGHTON",
+  "no_economico": "R26732",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0041",
+  "id_cliente": "C010",
+  "tipo": "REMOLQUE",
+  "marca": "HYUNDAI TRANSLEAD",
+  "no_economico": "R23878",
+  "no_serie": "3H32H5L2XPF816305",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0042",
+  "id_cliente": "C001",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D13785",
+  "no_serie": null,
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0043",
+  "id_cliente": "C013",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T0659",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0044",
+  "id_cliente": "C004",
+  "tipo": "REMOLQUE",
+  "marca": "HYUNDAI TRANSLEAD",
+  "no_economico": "R16482",
+  "no_serie": "3H3CWPRT8LE348869",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0045",
+  "id_cliente": "C001",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R14081",
+  "no_serie": "3A1VYXTHXPF799474",
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0046",
+  "id_cliente": "C001",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D20764",
+  "no_serie": null,
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0047",
+  "id_cliente": "C012",
+  "tipo": "REMOLQUE",
+  "marca": "UTILITY",
+  "no_economico": "R08720",
+  "no_serie": "1UYR0CP36PB695996",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0048",
+  "id_cliente": "C002",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T4552",
+  "no_serie": "3AK66MBM4NH133487",
+  "placas": null,
+  "base": "QUERETARO"
+ },
+ {
+  "id_unidad": "U0049",
+  "id_cliente": "C006",
+  "tipo": "REMOLQUE",
+  "marca": "OPERBUS",
+  "no_economico": "R10946",
+  "no_serie": "3PBF8F1X3GW687556",
+  "placas": null,
+  "base": "MONTERREY"
+ },
+ {
+  "id_unidad": "U0050",
+  "id_cliente": "C012",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T6833",
+  "no_serie": "3AK579LH7JP365458",
+  "placas": "72LD330",
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0051",
+  "id_cliente": "C013",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T9106",
+  "no_serie": "3AKWGZM73KV655655",
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0052",
+  "id_cliente": "C014",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T4237",
+  "no_serie": "3AK00D6F9PX308201",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0053",
+  "id_cliente": "C001",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D19087",
+  "no_serie": null,
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0054",
+  "id_cliente": "C012",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T8269",
+  "no_serie": "3AKC62WP7PS204165",
+  "placas": "59SZ687",
+  "base": "CIUDAD DE MÉXICO"
+ },
+ {
+  "id_unidad": "U0055",
+  "id_cliente": "C014",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D14781",
+  "no_serie": null,
+  "placas": null,
+  "base": "CELAYA"
+ },
+ {
+  "id_unidad": "U0056",
+  "id_cliente": "C014",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R24486",
+  "no_serie": null,
+  "placas": null,
+  "base": "CELAYA"
+ },
+ {
+  "id_unidad": "U0057",
+  "id_cliente": "C009",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T0381",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0058",
+  "id_cliente": "C015",
+  "tipo": "REMOLQUE",
+  "marca": "UTILITY",
+  "no_economico": "R02731",
+  "no_serie": "1UYCNGCS0PS790792",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0059",
+  "id_cliente": "C013",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D06539",
+  "no_serie": null,
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0060",
+  "id_cliente": "C004",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T2833",
+  "no_serie": "3AK729CF9JA852783",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0061",
+  "id_cliente": "C009",
+  "tipo": "REMOLQUE",
+  "marca": "UTILITY",
+  "no_economico": "R22120",
+  "no_serie": null,
+  "placas": null,
+  "base": "AGUASCALIENTES"
+ },
+ {
+  "id_unidad": "U0062",
+  "id_cliente": "C002",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T8738",
+  "no_serie": null,
+  "placas": null,
+  "base": "COATEPEC"
+ },
+ {
+  "id_unidad": "U0063",
+  "id_cliente": "C002",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D29125",
+  "no_serie": null,
+  "placas": null,
+  "base": "MORELIA"
+ },
+ {
+  "id_unidad": "U0064",
+  "id_cliente": "C008",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R27714",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0065",
+  "id_cliente": "C015",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R15857",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0066",
+  "id_cliente": "C006",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D10040",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0067",
+  "id_cliente": "C008",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D02228",
+  "no_serie": null,
+  "placas": null,
+  "base": "PUEBLA"
+ },
+ {
+  "id_unidad": "U0068",
+  "id_cliente": "C014",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D28675",
+  "no_serie": null,
+  "placas": null,
+  "base": "CELAYA"
+ },
+ {
+  "id_unidad": "U0069",
+  "id_cliente": "C012",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R22997",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0070",
+  "id_cliente": "C006",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D25123",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0071",
+  "id_cliente": "C012",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T1998",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0072",
+  "id_cliente": "C002",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D27883",
+  "no_serie": null,
+  "placas": null,
+  "base": "QUERETARO"
+ },
+ {
+  "id_unidad": "U0073",
+  "id_cliente": "C007",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D10385",
+  "no_serie": null,
+  "placas": null,
+  "base": "LEÓN"
+ },
+ {
+  "id_unidad": "U0074",
+  "id_cliente": "C015",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T7816",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0075",
+  "id_cliente": "C010",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D09999",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0076",
+  "id_cliente": "C002",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R20660",
+  "no_serie": "3A1SH4221CE064963",
+  "placas": "8HU6385",
+  "base": "MORELIA"
+ },
+ {
+  "id_unidad": "U0077",
+  "id_cliente": "C012",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T8577",
+  "no_serie": "3AKC04HJ1PS554400",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0078",
+  "id_cliente": "C014",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T5506",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0079",
+  "id_cliente": "C010",
+  "tipo": "REMOLQUE",
+  "marca": "UTILITY",
+  "no_economico": "R29463",
+  "no_serie": "1UYKENT62CU036908",
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0080",
+  "id_cliente": "C001",
+  "tipo": "REMOLQUE",
+  "marca": "STOUGHTON",
+  "no_economico": "R07630",
+  "no_serie": null,
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0081",
+  "id_cliente": "C002",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T3935",
+  "no_serie": null,
+  "placas": null,
+  "base": "MORELIA"
+ },
+ {
+  "id_unidad": "U0082",
+  "id_cliente": "C005",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D04941",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0083",
+  "id_cliente": "C007",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D20445",
+  "no_serie": null,
+  "placas": null,
+  "base": "LEÓN"
+ },
+ {
+  "id_unidad": "U0084",
+  "id_cliente": "C002",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T4209",
+  "no_serie": null,
+  "placas": null,
+  "base": "MORELIA"
+ },
+ {
+  "id_unidad": "U0085",
+  "id_cliente": "C005",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D03186",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0086",
+  "id_cliente": "C013",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D06386",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0087",
+  "id_cliente": "C011",
+  "tipo": "REMOLQUE",
+  "marca": "WABASH",
+  "no_economico": "R17368",
+  "no_serie": "1JJCTTC50MU060735",
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0088",
+  "id_cliente": "C012",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T7914",
+  "no_serie": null,
+  "placas": null,
+  "base": "TEPOTZOTLAN"
+ },
+ {
+  "id_unidad": "U0089",
+  "id_cliente": "C004",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R01610",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0090",
+  "id_cliente": "C002",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D09370",
+  "no_serie": null,
+  "placas": null,
+  "base": "MORELIA"
+ },
+ {
+  "id_unidad": "U0091",
+  "id_cliente": "C001",
+  "tipo": "REMOLQUE",
+  "marca": "OPERBUS",
+  "no_economico": "R09769",
+  "no_serie": null,
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0092",
+  "id_cliente": "C001",
+  "tipo": "REMOLQUE",
+  "marca": "UTILITY",
+  "no_economico": "R11150",
+  "no_serie": null,
+  "placas": null,
+  "base": null
+ },
+ {
+  "id_unidad": "U0093",
+  "id_cliente": "C013",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T5689",
+  "no_serie": "3AKRBUYMXLP354272",
+  "placas": "16GJ960",
+  "base": null
+ },
+ {
+  "id_unidad": "U0094",
+  "id_cliente": "C011",
+  "tipo": "REMOLQUE",
+  "marca": "GREAT DANE",
+  "no_economico": "R13387",
+  "no_serie": "1GRUHWD04GL035288",
+  "placas": null,
+  "base": "MONTERREY"
+ },
+ {
+  "id_unidad": "U0095",
+  "id_cliente": "C014",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T1440",
+  "no_serie": "3AKS2HJD8JS617355",
+  "placas": null,
+  "base": "CELAYA"
+ },
+ {
+  "id_unidad": "U0096",
+  "id_cliente": "C005",
+  "tipo": "REMOLQUE",
+  "marca": "GREAT DANE",
+  "no_economico": "R27227",
+  "no_serie": "1GRDCYVF0KV487216",
+  "placas": null,
+  "base": "CIUDAD DE MÉXICO"
+ },
+ {
+  "id_unidad": "U0097",
+  "id_cliente": "C007",
+  "tipo": "REMOLQUE",
+  "marca": "OPERBUS",
+  "no_economico": "R19007",
+  "no_serie": "3PBMFG7L6MT425793",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0098",
+  "id_cliente": "C005",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T0906",
+  "no_serie": null,
+  "placas": null,
+  "base": "CIUDAD DE MÉXICO"
+ },
+ {
+  "id_unidad": "U0099",
+  "id_cliente": "C011",
+  "tipo": "REMOLQUE",
+  "marca": "GREAT DANE",
+  "no_economico": "R03397",
+  "no_serie": null,
+  "placas": null,
+  "base": "MONTERREY"
+ },
+ {
+  "id_unidad": "U0100",
+  "id_cliente": "C008",
+  "tipo": "REMOLQUE",
+  "marca": "STOUGHTON",
+  "no_economico": "R02529",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0101",
+  "id_cliente": "C002",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D08362",
+  "no_serie": null,
+  "placas": null,
+  "base": "PUEBLA"
+ },
+ {
+  "id_unidad": "U0102",
+  "id_cliente": "C011",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D05372",
+  "no_serie": null,
+  "placas": null,
+  "base": "MONTERREY"
+ },
+ {
+  "id_unidad": "U0103",
+  "id_cliente": "C012",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T2068",
+  "no_serie": "3AKMUBJF9KD107006",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0104",
+  "id_cliente": "C015",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T0702",
+  "no_serie": "3AKZD21C2PM712696",
+  "placas": "92SN333",
+  "base": "CIUDAD DE MÉXICO"
+ },
+ {
+  "id_unidad": "U0105",
+  "id_cliente": "C002",
+  "tipo": "REMOLQUE",
+  "marca": "OPERBUS",
+  "no_economico": "R22615",
+  "no_serie": "3PBS1T625K1008181",
+  "placas": null,
+  "base": "COATEPEC"
+ },
+ {
+  "id_unidad": "U0106",
+  "id_cliente": "C013",
+  "tipo": "REMOLQUE",
+  "marca": "OPERBUS",
+  "no_economico": "R18143",
+  "no_serie": "3PBJN5250LT390315",
+  "placas": "56YZ154",
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0107",
+  "id_cliente": "C004",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T7902",
+  "no_serie": "3AK4MWFJ9LS865462",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0108",
+  "id_cliente": "C004",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D07179",
+  "no_serie": null,
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0109",
+  "id_cliente": "C010",
+  "tipo": "DOLLY",
+  "marca": null,
+  "no_economico": "D14299",
+  "no_serie": null,
+  "placas": null,
+  "base": "CIUDAD JUÁREZ"
+ },
+ {
+  "id_unidad": "U0110",
+  "id_cliente": "C014",
+  "tipo": "TRACTO",
+  "marca": "FREIGHTLINER",
+  "no_economico": "T9691",
+  "no_serie": "3AKATSV37LD693647",
+  "placas": null,
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0111",
+  "id_cliente": "C005",
+  "tipo": "REMOLQUE",
+  "marca": "UTILITY",
+  "no_economico": "R20686",
+  "no_serie": "1UYG1L2S8KG716054",
+  "placas": "34PU212",
+  "base": "CUAUTITLAN"
+ },
+ {
+  "id_unidad": "U0112",
+  "id_cliente": "C014",
+  "tipo": "REMOLQUE",
+  "marca": "GAMI",
+  "no_economico": "R29813",
+  "no_serie": null,
+  "placas": null,
+  "base": "CELAYA"
+ }
+]

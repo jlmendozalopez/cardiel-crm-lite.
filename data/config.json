@@ -1,0 +1,83 @@
+{
+ "razon_social": "CARDIEL TRAILERS DE MEXICO, S.A. DE C.V",
+ "direccion_1": "Calle Irlanda ext 8 Int 7 Col Centro Urbano Cuautitlan Izcalli",
+ "direccion_2": "Estado de Mexico, C.P. 54700",
+ "rfc": "CTM-170602-8B1",
+ "telefono": "55 58 73 58 02",
+ "lugar_emision": "Cuautitlan Izcalli, Edo. de Mexico",
+ "lema": "Fortaleciendo el transporte que mueve a México",
+ "firma_area": "GERENCIA DE COMERCIALIZACION Y SERVICIO",
+ "firma_telefonos": [
+  "(55) 4982 2934",
+  "(55) 5873 5802"
+ ],
+ "texto_apertura": "Atendiendo su amable solicitud, envio cotizacion de Refacciones solicitadas por el area de Compras y/o Taller de vehiculos asi como las caracteristicas y condiciones comerciales:",
+ "leyenda_imss": "Nuestra empresa es responsable de las obligaciones derivadas de las disposiciones legales y demás ordenamientos en materia de seguridad social (IMSS) y acordamos por lo mismo en responder todas las reclamaciones de nuestros trabajadores",
+ "leyenda_precios": "*PRECIOS INCLUYE MATERIALES Y MANO DE OBRA",
+ "leyenda_iva": "A los precios anteriores se les adicionará el 16% de I.V.A.",
+ "cierre": "Sin mas por el momento, quedamos a sus órdenes para cualquier aclaración y/o duda al respecto.",
+ "iva": 0.16,
+ "dias_alerta_seguimiento": 3,
+ "fecha_demo": "2026-10-29",
+ "catalogos": {
+  "condiciones_pago": [
+   "Contado",
+   "15 días de crédito",
+   "30 días de crédito",
+   "50% anticipo / 50% contra entrega"
+  ],
+  "forma_pago": [
+   "Depósito Electrónico a nuestra cuenta BBVA Bancomer",
+   "Efectivo / transferencia en mostrador"
+  ],
+  "tiempo_entrega": [
+   "1 dia habil, despues de recibido su comprobante de pago** No hay cambios ni devoluciones**",
+   "1 dia habil, después de recibida la O.C.** No hay cambios ni devoluciones**",
+   "15 a 20 dias habiles (pieza de importacion), despues de recibido su comprobante de pago",
+   "15 a 20 dias habiles (pieza de importacion), después de recibida la O.C.",
+   "3 a 5 dias habiles, despues de recibido su comprobante de pago** No hay cambios ni devoluciones**",
+   "3 a 5 dias habiles, después de recibida la O.C.** No hay cambios ni devoluciones**",
+   "Entrega Inmediato, despues de recibida su comprobante de pago",
+   "INMEDIATO , despues de recibida la O.C.** No hay cambios ni devoluciones**",
+   "INMEDIATO, despues de enviar OC no hay cambios ni devoluciones",
+   "INMEDIATO, despues de recibida la O.C.** No hay cambios ni devoluciones**",
+   "INMEDIATO, despues de recibido su comprobante de pago** No hay cambios ni devoluciones**"
+  ],
+  "vigencia": [
+   "Una semana a partir de recibida esta cotización",
+   "15 días a partir de recibida esta cotización",
+   "30 días a partir de recibida esta cotización"
+  ],
+  "unidad_tipo": [
+   "REFACCION",
+   "REMOLQUE",
+   "TRACTO",
+   "DOLLY"
+  ],
+  "motivo_perdida": [
+   "Precio",
+   "Tiempo de entrega",
+   "Cliente compró con otro proveedor",
+   "Cliente canceló reparación",
+   "Sin existencia",
+   "Otro"
+  ],
+  "segmentos": [
+   "Caja seca / refrigerada",
+   "Dolly H",
+   "Plataforma encortinada / paletizada",
+   "Refacciones para tracto"
+  ],
+  "tipo_cliente": [
+   "Carga consolidada / logística",
+   "Logística / paquetería",
+   "Mostrador",
+   "Operador logístico",
+   "Operador logístico 3PL",
+   "Transporte refrigerado",
+   "Transportista",
+   "Transportista / logística",
+   "Transportista / paquetería"
+  ]
+ }
+}

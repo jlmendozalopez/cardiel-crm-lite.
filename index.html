@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CARDIEL · CRM-lite y Cerebro Digital</title>
+  <meta name="description" content="CRM-lite de CARDIEL Trailers de México con el Cerebro Digital para identificar piezas y cotizar.">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="stylesheet" href="css/estilos.css">
+  <script>try { if (!sessionStorage.getItem("cardiel_sesion")) document.documentElement.classList.add("sin-sesion"); } catch (e) { document.documentElement.classList.add("sin-sesion"); }</script>
+</head>
+<body>
+  <a class="saltar" id="saltar" href="#contenido">Saltar al contenido</a>
+  <div class="acceso" id="acceso" role="region" aria-label="Acceso al portal"></div>
+  <div class="app">
+    <aside class="lateral" id="lateral">
+      <div class="lateral-marca">
+        <img src="assets/logo-cardiel-blanco.png" alt="CARDIEL">
+        <small>CRM-lite · Cerebro Digital</small>
+      </div>
+      <nav class="nav" id="nav"></nav>
+      <div class="lateral-pie">
+        <div class="estado-guardado" id="estado-guardado" data-estado="ok"><i></i><span>Cargando…</span></div>
+        <button class="btn-carpeta oculto" id="btn-carpeta" type="button"></button>
+        <button class="btn-salir" id="btn-salir" type="button"></button>
+        <div class="version">Prototipo funcional · Fase 1</div>
+      </div>
+    </aside>
+
+    <div class="principal">
+      <header class="barra">
+        <button class="btn-icono btn-menu" id="btn-menu" aria-label="Abrir menú"></button>
+        <div class="buscador-global">
+          <span id="ico-buscar"></span>
+          <input id="buscar-global" type="search" autocomplete="off" placeholder="Buscar cliente, cotización, pieza o número de parte…" aria-label="Buscar cliente, cotización, pieza o número de parte" aria-keyshortcuts="/" title="Atajo: tecla /">
+          <div class="resultados-globales oculto" id="resultados-globales"></div>
+        </div>
+        <div class="barra-acciones">
+          <a class="btn btn-sec btn-nueva" id="btn-nueva" href="#/cotizaciones/nueva"></a>
+          <div class="usuario-chip" id="usuario-chip" tabindex="0" role="button" aria-label="Cambiar usuario"></div>
+        </div>
+      </header>
+      <main class="contenido" id="contenido" tabindex="-1">
+        <div class="vacio"><div class="pensando" style="justify-content:center"><i></i><i></i><i></i></div>Cargando datos…</div>
+      </main>
+    </div>
+  </div>
+
+  <script src="js/util.js"></script>
+  <script src="js/iconos.js"></script>
+  <script src="js/acceso.js"></script>
+  <script src="data/semilla.js"></script>
+  <script src="js/logo-datos.js"></script>
+  <script src="vendor/jspdf.umd.min.js"></script>
+  <script src="js/datos.js"></script>
+  <script src="js/cerebro.js"></script>
+  <script src="js/pdf.js"></script>
+  <script src="js/excel.js"></script>
+  <script src="js/graficas.js"></script>
+  <script src="js/vistas/inicio.js"></script>
+  <script src="js/vistas/cerebro.js"></script>
+  <script src="js/vistas/cotizaciones.js"></script>
+  <script src="js/vistas/clientes.js"></script>
+  <script src="js/vistas/catalogo.js"></script>
+  <script src="js/vistas/proveedores.js"></script>
+  <script src="js/vistas/documentos.js"></script>
+  <script src="js/vistas/configuracion.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
